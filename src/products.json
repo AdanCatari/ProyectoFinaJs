@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "cama queen size",
+        "price": 10.99,
+        "image": {
+          "fields": { "file": { "url": "./imagenes/product-1.jpeg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "cama king size",
+        "price": 12.99,
+        "image": {
+          "fields": { "file": { "url": "./imagenes/product-2.jpeg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "cama individual",
+        "price": 12.99,
+        "image": {
+          "fields": { "file": { "url": "./imagenes/product-3.jpeg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "cama matrimonial",
+        "price": 22.99,
+        "image": {
+          "fields": { "file": { "url": "./imagenes/product-4.jpeg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "heladera",
+        "price": 88.99,
+        "image": {
+          "fields": { "file": { "url": "./imagenes/product-5.jpeg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "gabetera",
+        "price": 32.99,
+        "image": {
+          "fields": { "file": { "url": "./imagenes/product-6.jpeg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "sofá",
+        "price": 45.99,
+        "image": {
+          "fields": { "file": { "url": "./imagenes/product-7.jpeg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "mesa",
+        "price": 33.99,
+        "image": {
+          "fields": { "file": { "url": "./imagenes/product-8.jpeg" } }
+        }
+      }
+    }
+  ]
+}
